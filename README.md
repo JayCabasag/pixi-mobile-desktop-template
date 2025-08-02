@@ -1,6 +1,6 @@
 # Puzzling Potions - with mobile and desktop
 
-This is derived from Puzzling Potions -  [PIXI OPEN GAMES]([https://github.com/pixijs/pixijs]) repo 
+This is derived from Puzzling Potions -  [PIXI OPEN GAMES](https://github.com/pixijs/pixijs) repo 
 
 Open-source Match-3 game done in PixiJS. The goal of this project is to provide a simple and comprehensive example of professional game development using PixiJS technologies.
 
